@@ -1,3 +1,7 @@
+# Josep Marcello
+# 14 April 2020
+# MIT License
+
 # Program Blackjack
 # Gim kecil-kecilan buat main blackjack
 
